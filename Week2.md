@@ -3,7 +3,7 @@
 
 
 - Installing VScode
-![VScode website](/Users/natsu/Documents/cse-15l-lab-report-/images/Week2/vscode.png)	
+![VScode website](images/Week2/vscode.png)	
 - Remotely Connecting
 - Trying Some Commands
 - Moving Files with scp
