@@ -20,7 +20,7 @@
     command ls will return a list of all files in your reccent directory
     command cd stand for change directory, you can add path after cd to change the current directroy
 ## Moving Files with scp
-    ![scp](image/Week2/scp/png)
+![scp](image/Week2/scp/png)
     scp is secure copy of a local file to the server
     here you can see I copy the Week2 to the server
 ## Setting an SSH Key
