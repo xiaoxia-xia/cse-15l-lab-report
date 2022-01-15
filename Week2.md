@@ -1,6 +1,4 @@
-# CSE Lab Report Week 2
-
-
+# CSE 15L Week2 - Remote Access
 
 ## Installing VScode
 ![VScode website](images/Week2/vscode.png)

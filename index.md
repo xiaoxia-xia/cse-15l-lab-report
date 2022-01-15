@@ -1,1 +1,4 @@
-index page
+# Here is the pages for CSE 15l Lab Report 
+# Author: Xiaoxia Xia
+
+- [Week2 - Remote Access](Week2)
