@@ -20,11 +20,11 @@
     command ls will return a list of all files in your reccent directory
     command cd stand for change directory, you can add path after cd to change the current directroy
 ## Moving Files with scp
-![scp](image/Week2/scp/png)
+![scp](images/Week2/scp.png)
     scp is secure copy of a local file to the server
     here you can see I copy the Week2 to the server
 ## Setting an SSH Key
-![ssh](image/Week2/ssh.png)
+![ssh](images/Week2/ssh.png)
     here you set up a public or private ssh key in a particualr location with your own password
     the main point is to save the work to repeating config happen when accessing the server
 ## Optimizing Remote Running
