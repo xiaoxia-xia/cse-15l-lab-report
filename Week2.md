@@ -27,4 +27,5 @@
     the main point is to save the work to repeating config happen when accessing the server
 ## Optimizing Remote Running
 ![quick-remote](images/Week2/quick-remote-running-with-command.png)
-    with the command as you did for ssh, then follow with a command such as ls, then it will execute not only ssh, but ls and exit 
+    with the command as did for ssh, then follow with a command such as ls, then it will execute not only ssh, but ls and exit
+    Keystroke: 6, including up, up, enter, command + v, enter
