@@ -11,7 +11,7 @@
     left side is the place you manager or overlook the structure of your project and select the file. You may get also get some useful extension here 
 ## Remotely Connecting
 ![remote connecting](images/Week2/connecting-to-remote-running.png)
-    in the terminal, type or paste with "ssh + your account to server", then if work well, you will be ask for password
+    in the terminal, type or paste with `ssh + your account to server`, then if work well, you will be ask for password
     you cannot see the password you type in, but they are really there. After type or paste password with all blanks, press enter to connect the server
 ## Trying Some Commands
 ![commands](images/Week2/use-cammand-such-as-ls-and-cd.png)
