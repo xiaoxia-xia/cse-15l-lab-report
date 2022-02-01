@@ -21,7 +21,7 @@ The file I tested in [test2](https://github.com/xiaoxia-xia/markdown-parse/blob/
 
 outOfIndex exception: Since program will detect the [] then search (), but some time is lack of link in the file
 
-![test2_Error](image/Week4/2nd output.png)
+![test2_Error](images/Week4/2nd output.png)
 
 Description: Add the try and catch in case of the exception. If the exception caught, tell the user that "can not detect the link in the file"
 
