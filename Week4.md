@@ -10,7 +10,7 @@ infinite loop: The original one doesn't consider existence of the word after lin
 
 ![test1Error](images/Week4/1stOutput.png)
 
-Description: Adding the break law that if meet the last ")", then quit the while loop. The word after ")" will be ignored.
+Description: Adding the break law that if meet the last ")", then quit the while loop. The word after ")" will be ignored. As test shown, this ignor the messy word after link, do quit the while loop. Otherwise, even thoguh the output the correct, the program never finish
 
 
 ## 2 
@@ -23,7 +23,7 @@ outOfIndex exception: Since program will detect the [] then search (), but some 
 
 ![test2Error](images/Week4/2ndOutput.png)
 
-Description: Add the try and catch in case of the exception. If the exception caught, tell the user that "can not detect the link in the file"
+Description: Add the try and catch in case of the exception. If the exception caught, tell the user that "can not detect the link in the file". Other while, give the link as desired.
 
 
 ## 3
@@ -36,4 +36,4 @@ If () leave the blank, the array will not keep anything, neither tell the user l
 
 ![testError](images/Week4/3rdOutput.png)
 
-Description: the link is expected to caught in paren. if the thing inside is blank, I leave the note "the paren leaves blank".  
+Description: the link is expected to caught in paren. if the thing inside is blank, program leave the note "the paren leaves blank".  Otherwise, print out the link as desired.
