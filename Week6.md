@@ -6,9 +6,11 @@ So when I was in the user folder, there is no such folder named .ssh, neitehr ca
 Then by press "cmd + shift + g", as ![cmdShiftG](images/Week6/cmdShiftG.png)
 
 Then create file name config, with cmd line inside as \
-`Host ieng6`\
-`   HostName ieng6.ucsd.edu`\
-`   User cs15lwi22afm`\
+```
+Host ieng6
+   HostName ieng6.ucsd.edu
+   User cs15lwi22afm
+```
 
 Lastly, back to terminal, change direcotry to ~/.ssh, give the cmd `ssh ieng6`
 
