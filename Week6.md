@@ -15,3 +15,7 @@ Host ieng6
 Lastly, back to terminal, change direcotry to ~/.ssh, give the cmd `ssh ieng6`
 
 ![success](images/Week6/result.png)
+
+I use `scp ieng6 WhereAmI` to get a copy of WhereAmI from server to my laptop, as shown below
+
+![scp](images/Week6/scp.png)
