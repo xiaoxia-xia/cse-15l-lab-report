@@ -3,6 +3,13 @@
 
 
 ## this is how it shows on [common mark](https://spec.commonmark.org/dingus/)
-![snippet1](images/labTest1.png)
-![snippet2](images/labTest2.png)
-![snippet3](images/labTest3.png)
+![snippet1](images/Week8/labTest1.png)
+![snippet2](images/Week8/labTest2.png)
+![snippet3](images/Week8/labTest3.png)
+
+
+This is the output of snippets of our group repo
+![ourGroup](images/Week8/ourGroupOfSnippets)
+
+This is hte output of snippets of other group repo
+![ourGroup](images/Week8/otherGroupOfSnippets)
