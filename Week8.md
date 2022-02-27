@@ -12,4 +12,4 @@ This is the output of snippets of our group repo
 ![ourGroup](images/Week8/ourGroupOutputOfSnippets.png)
 
 This is hte output of snippets of other group repo
-![ourGroup](images/Week8/otherGroupOfSnippets.png)
+![ourGroup](images/Week8/otherGroupOutputOfSnippets.png)
