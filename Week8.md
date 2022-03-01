@@ -9,7 +9,7 @@
 
 
 With makefile as below:
-![makefli](iamges/Week8/makefile.png)
+![makefli](images/Week8/makefile.png)
 in the terminal, we type `make test`
 
 This is the output of snippets of our group repo
