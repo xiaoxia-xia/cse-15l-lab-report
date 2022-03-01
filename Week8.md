@@ -8,8 +8,12 @@
 ![snippet3](images/Week8/labTest3.png)
 
 
+With makefile as below:
+![makefli](iamges/Week8/makefile.png)
+in the terminal, we type `make test`
+
 This is the output of snippets of our group repo
 ![ourGroup](images/Week8/ourGroupOutputOfSnippets.png)
 
 This is hte output of snippets of other group repo
-![ourGroup](images/Week8/otherGroupOutputOfSnippets.png)
+![otherGroup](images/Week8/otherGroupOutputOfSnippets.png)
