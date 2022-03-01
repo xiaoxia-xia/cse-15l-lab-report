@@ -1,4 +1,5 @@
 [Other group repo](https://github.com/codyprupp/markdown-parse)
+
 [Our group repo](https://github.com/PierreBeur/markdown-parse)
 
 
@@ -11,6 +12,9 @@
 With makefile as below:
 ![makefli](images/Week8/makefile.png)
 in the terminal, we type `make test`
+
+This is the tester in both of two folder
+![tester](images/Week8/tester.png)
 
 This is the output of snippets of our group repo
 ![ourGroup](images/Week8/ourGroupOutputOfSnippets.png)
