@@ -1,4 +1,4 @@
-# CSE 15L Week6 - Streamline ssh Configuration
+# CSE 15L Week6 - Streamline SSH Configuration
 
 ## .ssh folder is hidden on Mac System, enter folder by search
 So when I was in the user folder, there is no such folder named .ssh, neitehr can create one, since alarming says .name folder reserved for system.
