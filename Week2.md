@@ -27,5 +27,5 @@
     the main point is to save the work to repeating config happen when accessing the server
 ## Optimizing Remote Running
 ![combineThem](images/Week2/combine.png)
-    I use the code line as ``scp ieng6 WhereAmI.java``and ``ssh ieng6 "WhereAmI.java; java WhereAmI"`` to have WheveAmI running in remove server
+    I use the code line as ``scp ieng6 WhereAmI.java``and ``ssh ieng6 "WhereAmI.java; java WhereAmI"`` to have WheveAmI running in remove server. To total time of running them is 54 seconds.
 
