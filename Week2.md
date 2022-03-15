@@ -26,6 +26,6 @@
     here you set up a public or private ssh key in a particualr location with your own password
     the main point is to save the work to repeating config happen when accessing the server
 ## Optimizing Remote Running
-![combineThem]
+![combineThem](images/Week2/combine.png)
     I use the code line as ``scp WhereAmI.java ieng6:~``and ``ssh ieng6 "WhereAmI.java; java WhereAmI"`` to have WheveAmI running in remove server. To total time of running them is 54 seconds.
 
